@@ -1,0 +1,22 @@
+copy aka_name from '/tmp/imdb_csv/aka_name.csv' csv;
+copy aka_title from '/tmp/imdb_csv/aka_title.csv' csv;
+copy cast_info from '/tmp/imdb_csv/cast_info.csv' csv;
+copy char_name from '/tmp/imdb_csv/char_name.csv' csv;
+copy comp_cast_type from '/tmp/imdb_csv/comp_cast_type.csv' csv;
+copy company_name from '/tmp/imdb_csv/company_name.csv' csv;
+copy company_type from '/tmp/imdb_csv/company_type.csv' csv;
+copy complete_cast from '/tmp/imdb_csv/complete_cast.csv' csv;
+copy info_type from '/tmp/imdb_csv/info_type.csv' csv;
+copy keyword from '/tmp/imdb_csv/keyword.csv' csv;
+copy kind_type from '/tmp/imdb_csv/kind_type.csv' csv;
+copy link_type from '/tmp/imdb_csv/link_type.csv' csv;
+copy movie_companies from '/tmp/imdb_csv/movie_companies.csv' csv;
+copy movie_info from '/tmp/imdb_csv/movie_info.csv' csv;
+copy movie_info_idx from '/tmp/imdb_csv/movie_info_idx.csv' csv;
+copy movie_keyword from '/tmp/imdb_csv/movie_keyword.csv' csv;
+copy movie_link from '/tmp/imdb_csv/movie_link.csv' csv;
+copy name from '/tmp/imdb_csv/name.csv' csv;
+copy person_info from '/tmp/imdb_csv/person_info.csv' csv;
+copy role_type from '/tmp/imdb_csv/role_type.csv' csv;
+copy title from '/tmp/imdb_csv/title.csv' csv;
+
